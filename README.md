@@ -5443,6 +5443,11 @@ style.textContent = `
   border-radius: 8px;
   margin-bottom: 12px;
 }
+
+  .apply-button {
+    padding: 6px 12px; /* Adjust padding for smaller screens */
+    font-size: 14px; /* Reduce font size for smaller screens */
+  }
 }
 
 .train-booking-response,
